@@ -5,5 +5,11 @@
     - Team Stockholm 1
     2025-10
 */
+#include <stdio.h>
 
-int main() { return 0; }
+int main() {
+    //Etherskies Weather App should've been here, but the evil goblins took it in the divorce
+    
+    
+    return 0;
+}
