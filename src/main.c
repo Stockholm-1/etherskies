@@ -6,6 +6,4 @@
     2025-10
 */
 
-int main() {
-    return 0;
-}
+int main() { return 0; }
