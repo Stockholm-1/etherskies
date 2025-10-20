@@ -8,8 +8,8 @@
 #include <stdio.h>
 
 int main() {
-    //Etherskies Weather App should've been here, but the evil goblins took it in the divorce
-    
-    
+    // Etherskies Weather App should've been here, but the evil goblins took it
+    // in the divorce
+
     return 0;
 }
